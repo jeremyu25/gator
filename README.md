@@ -37,7 +37,7 @@ lists all users, with the current logged in user shows with (current) next to it
 ### agg \<time interval>
 gathers and saves posts for all rss feeds the currently logged in user is following
 
-#### addfeed \<feedname> \<url>
+### addfeed \<feedname> \<url>
 adds a feed with the given url and gives it the name provided
 
 ### feeds
